@@ -1,5 +1,5 @@
 # hello-world-webpack
 
-Utilizando:
+Using:
 
 http://tableless.com.br/introducao-ao-webpack/
